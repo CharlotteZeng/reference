@@ -816,6 +816,7 @@ method.invoke(classLoader, url);
 - `SecureRandom` 实例用于生成安全的伪随机数流
 - `UUID` 表示一个不可变的通用唯一标识符
 - `Vector` 实现了一个可增长的对象数组
+- `java.util.Stack` Stack是一种后进先出（LIFO）的结构，其继承了Vector的基础上拓展5个方法push()、pop()、peek()、empty()、search()而来
 
 另见
 ---
